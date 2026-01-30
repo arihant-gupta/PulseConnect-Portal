@@ -2,9 +2,6 @@
 
 PulseConnect is a healthcare institutional portal designed to unify patient data, reduce administrative overload, and enable proactive care through AI-driven insights.
 
-## 🚀 Live Demo
-👉 https://pulseconnect.vercel.app
-
 ## 🧩 Key Features
 - 🧭 Unified patient health timeline
 - 🔌 FHIR-compatible API bridge
